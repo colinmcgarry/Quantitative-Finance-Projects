@@ -1,1 +1,0 @@
-This project using Backward Stochastic Differential Equation method to price a Basket Option, and compare the results to a standard Monte Carlo calculation.
